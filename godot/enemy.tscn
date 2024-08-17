@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://c1812qgkogkb7"]
+
+[ext_resource type="Texture2D" uid="uid://br8eqp1dcrsl0" path="res://images/spritesheet.png" id="1_4fs14"]
+
+[node name="Enemy" type="Enemy"]
+texture = ExtResource("1_4fs14")
+region_enabled = true
